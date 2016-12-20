@@ -1,0 +1,12 @@
+{
+  "name": "nightmarePlayground",
+  "version": "1.0.0",
+  "description": "Nightmare's sampler",
+  "main": "index.js",
+  "repository": "https://github.com/gupuru/NightmarePlayground.git",
+  "author": "gupuru",
+  "license": "MIT",
+  "dependencies": {
+    "nightmare": "^2.9.0"
+  }
+}
